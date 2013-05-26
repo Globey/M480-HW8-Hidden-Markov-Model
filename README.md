@@ -4,7 +4,7 @@ M480-HW8-Hidden-Markov-Model
 <b>Create a Hidden Markov Modelof a person like I did in Lecture 22. Be as creative (or not) as you want. </b>
 
 <p>
-Pinter, who is from Vermont, has just won the $600 Million PowerBall jackpot. He's decided that he only likes 4 states and that he's going to spend the rest of his life traveling between those states and only those states. At midnight he decides which state he wants to travel to next (or if he wants to stay in his current state) and of course he makes haste for that state.  In the morning he texts his mom what activity he's going to do for the day. His mother tries to guess which state he's in based on what activity he engages in for the day. The transition, emission, and initial probabilities are outlined below.
+Jake, who is from Vermont, has just won the $600 Million PowerBall jackpot. He's decided that he only likes 4 states and that he's going to spend the rest of his life traveling between those states and only those states. At midnight he decides which state he wants to travel to next (he can also choose to stay in his current state) and of course he makes haste for that state.  In the morning he texts his mom what activity he's going to do for the day. His mother tries to guess which state he's in based on what activity he engages in for the day. The transition, emission, and initial probabilities are outlined below.
 </p>
 
 <b>States:</b> Coloarado, Hawaii, Vermont, California (get it?)
